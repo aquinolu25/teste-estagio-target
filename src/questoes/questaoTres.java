@@ -29,7 +29,7 @@ public class questaoTres {
 
     // Sequência F)
     public static int proxElementoF(int atual) {
-        return atual + 81;
+        return atual + 181;
     }
 
     public static void main(String[] args) {
