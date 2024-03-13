@@ -7,10 +7,10 @@ public class questaoCinco {
         inverteString(original);
     }
 
-    public static void inverteString(String str) {
+    public static void inverteString(String string) {
         StringBuilder inversa = new StringBuilder();
-        for (int i = str.length() - 1; i >= 0; i--) {
-            inversa.append(str.charAt(i));
+        for (int i = string.length() - 1; i >= 0; i--) {
+            inversa.append(string.charAt(i));
         }
         System.out.println("Palavra invertida: " + inversa);
     }
