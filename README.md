@@ -65,14 +65,13 @@ Você está em uma sala com três interruptores, cada um conectado a uma lâmpad
 
 Resposta: 
 
-Ligaria o primeiro interruptor e o deixaria ligado por alguns minutos
-Desligaria o primeiro interruptor e ligaria o segundo interruptor e o deixaria ligado
+Ligaria o primeiro interruptor e logo em seguida iria para a sala das lampadas conferir.
 
 Primeira visita:
-A lampada que estiver acesa, ela está conectada ao segundo interruptor que deixei ligado, a lampada que estiver quente e apagada se trata da lampada do primeiro interruptor
+Até aqui descobri uma lampada, logo em seguida voltaria a sala principal e desligaria o primeiro interruptor. Dai então ligaria o segundo.
 
 Segunda visita:
-A lampada que estivesse apagada e fria seria o que sobrou, o terceiro interruptor. Nessa terceira visita deixaria o segundo e o primeiro interruptor ligados, só para garantir que quando entrasse na sala o terceiro estaria desligado.
+Conferiria qual lampada foi acesa. Dai então já sabemos de dois interruptores, assim então, o que resta se refere a ultima lampada.
 
 *******************************************************************************************************************************************************************
 5) Invertendo uma String
